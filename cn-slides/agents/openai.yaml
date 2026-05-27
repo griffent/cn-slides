@@ -1,0 +1,6 @@
+interface:
+  display_name: "CN Slides"
+  short_description: "Chinese business HTML slide decks"
+  brand_color: "#0A66FF"
+  default_prompt: "Use $cn-slides to create a clean, high-contrast Chinese business HTML slide deck from my notes."
+
